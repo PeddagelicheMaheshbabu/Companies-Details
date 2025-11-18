@@ -1,0 +1,66 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Frontlines Media",
+      "location": "Hyderabad",
+      "industry": "Education",
+      "employees": 120,
+      "description": "EdTech startup building learning platforms.",
+      "website": "https://frontlinesedutech.com",
+      "type": "Private"
+    },
+    {
+      "id": 2,
+      "name": "TechCore Labs",
+      "location": "Bangalore",
+      "industry": "IT Services",
+      "employees": 300,
+      "description": "Software solutions and consulting.",
+      "website": "https://techcore.example.com",
+      "type": "Private"
+    },
+    {
+      "id": 3,
+      "name": "GreenFarm Agro",
+      "location": "Hyderabad",
+      "industry": "Agriculture",
+      "employees": 45,
+      "description": "AgriTech company focusing on sustainable farming.",
+      "website": "https://greenfarm.example.com",
+      "type": "Startup"
+    },
+    {
+      "id": 4,
+      "name": "HealthWave",
+      "location": "Chennai",
+      "industry": "Healthcare",
+      "employees": 220,
+      "description": "Digital health records and analytics.",
+      "website": "https://healthwave.example.com",
+      "type": "Private"
+    },
+    {
+      "id": 2,
+      "name": "Envirotech Online",
+      "location": "Hyderabad",
+      "industry": "IT Services",
+      "employees": 300,
+      "description": "Software solutions and consulting.",
+      "website": "https://eoepl.com/",
+      "type": "Private"
+    },
+    {
+      "id": 3,
+      "name": "Akira",
+      "location": "Bangalore",
+      "industry": "Information Technology",
+      "employees": 1500,
+      "description": "Innovative IT services and solutions provider.",
+      "website": "https://share.google/RNXVSXIJ9tBUBpFCm",
+      "type": "Public"
+    }
+  ]
+}
+
+
